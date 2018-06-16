@@ -28,7 +28,6 @@ function handleMessage(message) {
       "https://raw.githubusercontent.com/WPLuganda/slackdictionary/master/words.json"
     )
     .then(res => {
-      console.log(res.data);
       const words = res.data;
       for (key in words) {
         if (message.includes(" " + key)) {
