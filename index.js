@@ -33,22 +33,17 @@ bot.on('message', data => {
         return
     }
 
-    // Issue is now here. How to run this evertime a new word is called.
     handleMessage(data.text)
 });
 
-for (key in words){
-    function handleMessage(message) {
+function handleMessage(message) {
+    for (key in words){
         if (message.includes(' ' + key)) {
-            translateWord()
+            const params = {
+                icon_emoji: ':smiley:'
+            }
+
+            bot.postMessageToChannel(channel, `${key} = ${words[key]}`, params);
         }
-    }
-    
-    function translateWord() {
-        const params = {
-            icon_emoji: ':smiley:'
-        }
-    
-        bot.postMessageToChannel(channel, `${key} = ${words[key]}`, params);
     }
 }
