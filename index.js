@@ -5,7 +5,7 @@ const axios = require("axios");
 const channel = "translateapp";
 
 const bot = new SlackBot({
-  token: "xoxb-373454261911-382395365605-IUwpIHXTCRW5488P5Qdh0puY",
+  token: "xoxb-373454261911-382395365605-",
   name: "translate"
 });
 
