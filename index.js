@@ -1,49 +1,56 @@
-const SlackBot = require('slackbots')
-const axios = require('axios')
+const SlackBot = require("slackbots");
+const axios = require("axios");
 
-const words = {
-    please: 'bambi',
-    no: 'nedda'
-}
+//Channel to use
+const channel = "translateapp";
 
 const bot = new SlackBot({
-    token: 'xoxb-373454261911-382395365605-IUwpIHXTCRW5488P5Qdh0puY',
-    'name': 'translate'
+  token: "xoxb-373454261911-382395365605-IUwpIHXTCRW5488P5Qdh0puY",
+  name: "translate"
 });
 
-const channel = 'translateapp'
+/**
+ * Error Alert
+ */
+bot.on("error", err => console.log(err));
 
-//start Handler
-bot.on('start', () => {
-    const params = {
-        icon_emoji: ':smiley:'
-    }
+bot.on("message", data => {
+  if (data.type !== "message") {
+    return;
+  }
 
-    bot.postMessageToChannel(
-        channel,
-        'Type @translate leave a space and the desired word then return to translate from English to Luganda.',
-        params
-    )
-})
-
-bot.on('error', (err) => console.log(err))
-
-bot.on('message', data => {
-    if (data.type !== 'message') {
-        return
-    }
-
-    handleMessage(data.text)
+  handleMessage(data.text);
 });
 
 function handleMessage(message) {
-    for (key in words){
-        if (message.includes(' ' + key)) {
-            const params = {
-                icon_emoji: ':smiley:'
-            }
+  axios
+    .get(
+      "https://raw.githubusercontent.com/WPLuganda/slackdictionary/master/words.json"
+    )
+    .then(res => {
+      console.log(res.data);
+      const words = res.data;
+      for (key in words) {
+        if (message.includes(" " + key)) {
+          const params = {
+            icon_emoji: ":smiley:"
+          };
 
-            bot.postMessageToChannel(channel, `${key} = ${words[key]}`, params);
+          bot.postMessageToChannel(channel, `${key} = ${words[key]}`, params);
         }
-    }
+      }
+    });
 }
+
+//start Handler
+// bot.on("start", () => {
+//   const params = {
+//     icon_emoji: ":smiley:"
+//   };
+
+//   bot.postMessageToChannel(
+//     channel,
+//     "Type @translate leave a space and the desired word then return to translate from English to Luganda.",
+//     params
+//   );
+// });
