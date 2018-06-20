@@ -5,4 +5,443 @@
   "yes": "Iye",
   "laba": "look",
   "watch out": "wegenderezze"
+  "Egypt":"Misiri"
+"Belgium”:”Bubirigi”
+"Canada”:”Kanada”
+"England”:”Bungereza”
+"Europe”:”Bulaya”
+"Finland”:”Finilandi”
+"France”:”Bufalansa”
+"Germany”:”Budaaki”
+"Greece”:”Buyonaani”
+"Italy”:”Yitale”
+"Japan”:”Japaani”
+"Kenya”:”Kenya”
+"Sudan”:”Sudaani”
+"Sweden”:”Swideni”
+"Tanzania”:”Tanzaniya”
+"USA”:”Amerika”
+"Afghanistan”:” Afaganisitani”
+"Aland Islands”:” Aland Islands”
+"Albania”:” Alibaniya”
+"Algeria”:” Aligerya”
+"American Samoa”:” Samowa omumerika”
+"Andorra”:” Andora”
+"Angola”:” Angola”
+"Anguilla”:” Angwila”
+"Antigua and Barbuda”:” Antigwa ne Barabuda”
+"Argentina”:” Arigentina”
+"Armenia”:” Arameniya”
+"Aruba”:” Aruba”
+"Ascension Island”:” Ascension Island”
+"Australia”:” Awusitureliya”
+"Austria”:” Awusituriya”
+"Azerbaijan”:” Azerebayijaani”
+"Bahamas”:” Bahamasi”
+"Bahrain”:” Baareeni”
+"Bangladesh”:” Bangaladesi”
+"Barbados”:” Barabadosi”
+"Belarus”:” Belarusi”
+"Belgium”:” Bubirigi”
+"Belize”:” Belize”
+"Benin”:” Benini”
+"Bermuda”:” Beremuda”
+"Bhutan”:” Butaani”
+"Bolivia”:” Boliviya”
+"Bonaire”:” Bonaire”
+"Bosnia Herzegovina”:” Bosnia Herzegovina”
+"Botswana”:” Botiswana”
+"Bouvet Island”:” Bouvet Island”
+"Brazil”:” Buraziiri”
+"British Indian Ocean Territory”:” Bizinga by'eCago”
+"British Virgin Islands”:” Bizinga ebya Virigini ebitwalibwa Bungereza”
+"Brunei Darussalam”:” Burunayi”
+"Bulgaria”:” Bulugariya”
+"Burkina Faso”:” Burukina Faso”
+"Burundi”:” Burundi”
+"Cambodia”:” Kambodya”
+"Cameroon”:” Kameruuni”
+"Canada”:” Kanada”
+"Cape Verde”:” Bizinga by'e Kepu Veredi”
+"Cayman Islands”:” Bizinga ebya Kayimaani”
+"Central African Republic”:” Lipubulika eya Senturafiriki”
+"Chad”:” Caadi”
+"Chile”:” Cile”
+"China”:” Cayina”
+"Christmas Island":"Christmas Island"
+"Cocos (Keeling) Islands":"Cocos (Keeling) Islands"
+"Colombia":"Kolombya"
+"Comoros":"Bizinga by'eKomoro"
+"Congo":"Kongo"
+"Congo, Democratic Republic of Kongo":"Zayire"
+"Cook Islands":"Bizinga bya Kkuki"
+"Costa Rica":"Kosita Rika"
+"Croatia":"Kurowesya"
+"Cuba":"Cuba"
+"Curaßao":"CuraBao"
+"Cyprus":"Sipuriya"
+"Czech Republic":"Lipubulika ya Ceeka"
+"Denmark":"Denimaaka"
+"Djibouti":"Jjibuti"
+"Dominica":"Dominika"
+"Dominican Republic":"Lipubulika ya Dominika"
+"East Timor":"Timowa"
+"Ecuador":"Ekwado"
+"Egypt “:”Misiri”
+"El Salvador “:”El Salivado”
+"Equatorial Guinea”:”Gayana ey'oku ekweta”
+"Eritrea”:”Eritureya”
+"Estonia”:”Esitoniya”
+"Ethiopia”:”Esyopya”
+"Faeroe Islands”:”Faroe Islands”
+"Falkland Islands”:”Bizinga by'eFalikalandi”
+"Fiji”:”Fiji”
+"Finland”:”Finilandi”
+"France”:”Bufalansa”
+"French Guiana”:”Guyana enfalansa”
+"French Polynesia”:”Polinesiya enfalansa”
+"French Southern & Antarctic Territories”:”French Southern Territories”
+"Gabon”:”Gaboni”
+"Gambia”:”Gambya”
+"Georgia”:”Gyogya”
+"Germany”:”Budaaki”
+"Ghana”:”Gana”
+"Gibraltar”:”Giburalita”
+"Greece”:”Bugereeki/Buyonaani”
+"Greenland”:”Gurenelandi”
+"Grenada”:”Gurenada”
+"Guadeloupe”:”Gwadalupe”
+"Guam”:”Gwamu”
+"Guatemala”:”Gwatemala”
+"Guernsey”:”Guernsey”
+"Guinea”:”Gini”
+"Guinea-Bissau”:”Gini-Bisawu”
+"Guyana”:”Gayana”
+"Haiti”:”Hayiti”
+"Holy See (Vatican City)”:”Vatikaani”
+"Honduras”:”Hundurasi”
+"Hong Kong”:”Hong Kong”
+"Hungary”:”Hangare”
+"Iceland”:”Ayisirandi”
+"India”:”Buyindi”
+"Indonesia”:”Yindonezya”
+"Iran”:”Yiraani”
+"Iraq”:”Yiraaka”
+"Ireland”:”Ayalandi”
+"Israel”:”Yisirayeri”
+"Italy”:”Yitale”
+"Ivory Coast”:”Kote Divwa”
+"Jamaica”:”Jamayika”
+"Japan”:”Japani”
+"Jersey”:”Jersey”
+"Jordan”:”Yorodani”
+"Kazakhstan”:”Kazakisitaani”
+"Kenya”:”Kenya”
+"Kiribati”:”Kiribati”
+"Kosovo”:”Kasovo”
+"Kuwait”:”Kuweti”
+"Kyrgyzstan”:”Kirigizisitaani”
+"Laos”:”Lawosi”
+"Latvia”:”Lativya”
+"Lebanon”:”Lebanoni”
+"Lesotho”:”Lesoso”
+"Liberia”:”Liberya”
+"Libya”:”Libya”
+"Liechtenstein”:”Licitensitayini”
+"Lithuania”:”Lisuwenya”
+"Luxembourg”:”Lukisembaaga”
+"Macau”:”Macau”
+"Macedonia”:”Masedoniya”
+"Madagascar”:”Madagasika”
+"Madeira”:”Madeyira”
+"Malawi”:”Malawi”
+"Malaysia”:”Malezya”
+"Maldives”:”Bizinga by'eMalidive”
+"Mali”:”Mali”
+"Malta”:”Malita”
+"Marshall Islands “:”Bizinga bya Mariso”
+"Martinique”:”Maritiniiki”
+"Mauritania”:”Mawulitenya”
+"Mauritius”:”Mawulisyasi”
+"Mayotte”:”Mayotte”
+"Mexico”:”Mekisiko”
+"Micronesia”:”Mikuronezya”
+"Moldova”:”Molodova”
+"Monaco”:”Monako”
+"Mongolia”:”Mongoliya”
+"Montenegro”:”Montenegro”
+"Montserrat”:”Monteseraati”
+"Morocco”:”Moroko”
+"Mozambique”:”Mozambiiki”
+"Myanmar”:”Myanima”
+"Namibia”:”Namibiya”
+"Nauru”:”Nawuru”
+"Nepal”:”Nepalo”
+"Netherlands Antilles”:”Bizinga bya Antile eby'abaHolandi”
+"Netherlands”:”Holandi”
+"New Caledonia”:”Kaledonya mupya”
+"New Zealand”:”Niyuziirandi”
+"Nicaragua”:”Nikaraguwa”
+"Niger”:”Nije”
+"Nigeria”:”Nayijerya”
+"Niue”:”Niyuwe”
+"Norfolk Island”:”Kizinga ky'eNorofoko”
+"North Korea”:”Koreya ey'omumambuka”
+"Northern Mariana Islands”:”Bizinga bya Mariyana eby'omumambuka”
+"Norway”:”Nowe”
+"Oman”:”Omaani”
+"Pakistan”:”Pakisitaani”
+"Palau”:”Palawu”
+"Palestine”:”Palesitayini”
+"Panama”:”Panama”
+"Papua New Guinea”:”Papwa Nyugini”
+"Paraguay”:”Paragwayi”
+"Peru”:”Peru”
+"Philippines”:”Bizinga bya Firipino”
+"Pitcairn Islands”:”Pitikeeni”
+"Poland”:”Polandi”
+"Portugal”:”Potugaali”
+"Puerto Rico”:”Potoriko”
+"Qatar”:”Kataa”
+"Reunion”:”Leyunyoni”
+"Romania”:”Lomaniya”
+"Russia”:”Lasa”
+"Rwanda”:”Rwanda”
+"Saba”:”Saba”
+"Saint-Barthelemy”:”Saint Barthelemy”
+"Saint Helena”:”Senti Herena”
+"Saint Kitts and Nevis”:”Senti Kitisi ne Nevisi”
+"Saint Lucia”:”Senti Luciya”
+"Saint-Martin”:” Saint Martin”
+"Saint Pierre and Miquelon”:”Senti Piyere ne Mikeloni”
+"Saint Vincent and The Grenadines”:”Senti Vinsenti ne Gurendadiini”
+"Samoa”:”Samowa”
+"San Marino”:”Sanimarino”
+"Sao Tome and Principe”:”Sanitome ne Purincipe”
+"Senegal”:”Senegaalo”
+"Serbia”:”Seribya”
+"Seychelles”:”Sesere”
+"Sierra Leone “:”Siyeralewone”
+"Singapore”:”Singapowa”
+"Sint Eustatius”:”Sint Eustatius”
+"Sint Maarten”:”Sint Maarten”
+"Slovakia”:”Sirovakya”
+"Slovenia”:”Sirovenya”
+"Solomon Islands”:”Bizanga by'eSolomooni”
+"Somalia”:”Somaliya”
+"South Africa”:”Sawusafirika”
+"South Georgia”:”Amaserengeta ga Georgia”
+"South Sandwich Islands”:”Akaziinga ka sanwich akomumaserengeta”
+"South Korea “:”Koreya ey'omumaserengeta”
+"South Sudan “:”Sudaani ey'omumaserengeta”
+"Spain “:”Sipeyini”
+"Sri Lanka”:”Sirilanka”
+"Sudan”:”Sudaani”
+"Suriname”:”Surinaamu”
+"Svalbard and Jan Mayen”:”Svalbard and Jan Mayen”
+"Swaziland”:”Swazirandi”
+"Sweden”:”Swideni”
+"Switzerland”:”Switizirandi”
+"Syria”:”Siriya”
+"Taiwan”:”Tayiwani”
+"Tajikistan”:”Tajikisitaani”
+"Tanzania”:”Tanzaniya”
+"Thailand”:”Tayirandi”
+"Togo”:”Togo”
+"Tokelau Islands”:”Tokelawu”
+"Tonga”:”Tonga”
+"Trinidad and Tobago”:”Turindaadi ne Tobago”
+"Tristan da Cunha”:”Tristan da Cunha”
+"Tunisia”:”Tunisya”
+"Turkey”:”Ttake”
+"Turkmenistan”:”Takimenesitaani”
+"Turks and Caicos Islands”:”Bizinga by'eTaaka ne Kayikosi”
+"Tuvalu”:”Tuvalu”
+"Uganda”:”Yuganda”
+"Ukraine”:”Yukurayine”
+"United Arab Emirates”:”Emireeti”
+"United Kingdom”:”Bungereza”
+"United States Minor Outlying Islands”:”United States Minor Outlying Islands”
+"United States Virgin Islands”:”Bizinga bya Virigini eby'Amerika”
+"United States of America “:”Amerika”
+"Uruguay”:”Wurugwayi”
+"Uzbekistan”:”Wuzibekisitaani”
+"Vanuatu”:”Vanawuwatu”
+"Venezuela”:”Venzwera”
+"Vietnam”:”Vyetinaamu”
+"Wallis and Futuna”:”Walisi ne Futuna”
+"Western Sahara”:”Western Sahara”
+"Yemen”:”Yemeni”
+"Zambia":"Zambya”
+"Zimbabwe":"Zimbabwe”
+
+
+//NUMBERS
+"One”:”Emu”
+        "Two”:”Biiri”
+        "Three”:”Ssatu”
+        "Four”:”Nnya”
+        "Five”:”Taano”
+        "Six”:”Mukaaga”
+        "Seven”:”Musanvu”
+        "Eight”:”Munaana”
+        "Nine”:”Mwenda”
+        "Ten”:”Kkumi”
+        "Eleven”:”Kkumi n`emu"
+        "Twelve”:”Kkumi na bbiri”
+        "Thirteen”:”Kkumi na ssatu"
+        "Fourteen”:”Kkumi na nnya"
+        "Fifteen”:”Kkumi na taano"
+        "Sixteen”:”Kkumi na mukaaga”
+        "Seventeen”:”Kkumi na musanvu”
+        "Eighteen”:”Kkumi na munana”
+        "Nineteen”:”Kkumi na mwenda”
+        "Twenty”:”Abiiri”
+        "Twenty One”:”Abiiri mw`emu”
+        "Twenty Two”:”Abiiri mu bbiri”
+        "Twenty Three”:”Abiiri mu ssatu”
+        "Twenty Four”:”Abiiri mu nnya”
+        "Twenty Five”:”Abiiri mu taano”
+        "Twenty Six”:”Abiiri mu mukaaga”
+        "Twenty Seven”:”Abiiri mu musanvu”
+        "Twenty Eight”:”Abiiri mu munana”
+        "Twenty Nine”:”Abiiri mu mwenda”
+        "Thirty”:”Asatu”
+        "Thirty One”:”Asatu mw`emu”
+        "Thirty Two”:”Asatu mu bbiri”
+        "Thirty Three”:”Asatu mu ssatu”
+        "Thirty Four”:”Asatu mu nnya”
+        "Thirty Five”:”Asatu mu taano”
+        "Thirty Six”:”Asatu mu mukaaga”
+        "Thirty Seven”:”Asatu mu musanvu”
+        "Thirty Eight”:”Asatu mu munana”
+        "Thirty Nine”:”Asatu mu mwenda”
+        "Forty”:”Ana”
+        "Forty One”:”Ana mw`emu”
+        "Forty Two”:”Ana mu bbiri”
+        "Forty Three”:”Ana mu ssatu”
+        "Forty Four”:”Ana mu nya”
+        "Forty Five”:”Ana mu taano”
+        "Forty Six”:”Ana mu mukaaga”
+        "Forty Seven”:”Ana mu musanvu”
+        "Forty Eight”:”Ana mu munana”
+        "Forty Nine”:”Ana mu mwenda”
+        "Fifty”:”Ataano”
+        "Fifty One”:”Ataano mw`emu”
+        "Fifty Two”:”Ataano mu bbiri”
+        "Fifty Three”:”Ataano mu ssatu”
+        "Fifty Four”:”Ataano mu nya”
+        "Fifty Five”:”Ataano mu taano”
+        "Fifty Six”:”Ataano mu mukaaga”
+        "Fifty Seven”:”Ataano mu musanvu”
+        "Fifty Eight”:”Ataano mu munana”
+        "Fifty Nine”:”Ataano mu mwenda”
+        "Sixty”:”Nkaaga”
+        "Sixty One”:”Nkaaga mw`emu”
+        "Sixty Two”:”Nkaaga mu bbiri”
+        "Sixty Three”:”Nkaaga mu ssatu”
+        "Sixty Four”:”Nkaaga mu nya”
+        "Sixty Five”:”Nkaaga mu taano”
+        "Sixty Six”:”Nkaaga mu mukaaga”
+        "Sixty Seven”:”Nkaaga mu musanvu”
+        "Sixty Eight”:”Nkaaga mu munana”
+        "Sixty Nine”:”Nkaaga mu mwenda”
+        "Seventy”:”Nsanvu”
+        "Seventy One”:”Nsanvu mw`emu”
+        "Seventy Two”:”Nsanvu mu bbiri”
+        "Seventy Three”:”Nsanvu mu ssatu”
+        "Seventy Four”:”Nsanvu mu nya”
+        "Seventy Five”:”Nsanvu mu taano”
+        "Seventy Six”:”Nsanvu mu mukaaga”
+        "Seventy Seven”:”Nsanvu mu musanvu”
+        "Seventy Eight”:”Nsanvu mu munana”
+        "Seventy Nine”:”Nsanvu mu mwenda”
+        "Eighty”:”Kinaana”
+
+        "Eighty One”:”Kinaana mw`emu”
+        "Eighty Two”:”Kinaana mu bbiri”
+        "Eighty Three”:”Kinaana mu ssatu”
+        "Eighty Four”:”Kinaana mu nya”
+        "Eighty Five”:”Kinaana mu taano”
+        "Eighty Six”:”Kinaana mu mukaaga”
+        "Eighty Seven”:”Kinaana mu musanvu”
+        "Eighty Eight”:”Kinaana mu munana”
+        "Eighty Nine”:”Kinaana mu mwenda”
+        "Ninty”:”Kyenda”
+
+        "Ninty One”:”Kyenda mw`emu”
+        "Ninty Two”:”Kyenda mu bbiri”
+        "Ninty Three”:”Kyenda mu ssatu”
+        "Ninty Four”:”Kyenda mu nya”
+        "Ninty Five”:”Kyenda mu taano”
+        "Ninty Six”:”Kyenda mu mukaaga”
+        "Ninty Seven”:”Kyenda mu musanvu”
+        "Ninty Eight”:”Kyenda mu munana”
+        "Ninty Nine”:”Kyenda mu mwenda”
+        "One Hundred”:”Kikumi"
+        //Numbers from 200 - 10,000,000,000
+
+        "Two Hundred”:”Bibiri”
+        "Three Hundred”:”Bisatu”
+        "Four Hundred”:”Bina”
+        "Five Hundred”:”Bitaano”
+        "Six Hundred”:”Lukaaga”
+        "Seven Hundred”:”Lusanvu”
+        "Eight Hundred”:”Lunaana”
+        "Nine Hundred”:”Lwenda”
+        "One Thousand”:”Lukumi”
+        "Two Thousand”:”Nkumi bbiri”
+        "Three Thousand”:”Nkumi ssatu”
+        "Four Thousand”:”Nkumi nnya”
+        "Five Thousand”:”Nkumi taano”
+        "Six Thousand”:”kakaaga”
+        "Seven Thousand”:”Kasanvu”
+        "Eight Thousand”:”Kanaana”
+        "Nine Thousand”:”Kenda”
+        "Ten Thousand”:”Mutwalo gumu”
+        "One Hundred Thousand”:”Mitwalo kumi”
+        "One Million”:”Akakadde kamu”
+        "Ten Million”:”Obukadde kumi”
+        "One Billion”:”Akawumbi Kamu”
+        "Ten Billion”:”Obuwumbi kumi”
+        "One Trillion”:”Busiriivu”
+//Family
+        "This is my”:”Ono ye...”
+
+        "Mother", "Maama ”
+        "Father", "Taata  "
+        "Wife", "Mukyala ”
+        "Husband", "Mwami wange "
+        "Child", "Mwana wange "
+        "Nephew/Niece", "Mwana "
+        "Grandchild", "Muzzukulu ”
+        "Son", "Mutabani ”
+        "Daughter", "Muwala wange”
+        "Older brother ", "Mukulu ”
+        "Older sister", "Mukulu wange”
+
+        "Younger brother ", "Muto wange”
+        "Younger sister", "Muto wange”
+
+        "Sibling (same sex)", "Muganda wange”
+        "Aunt (paternal)", "Ssenga wange”
+        "Uncle", "Kojja wange”
+        "Cousin ", " Mwannyinaze”
+        "Grandparent", "Jjajja”
+        "Father-in-law", "Ssezaala wange”
+        "Mother-in-law", "Nnyazaala wange”
+        "Friend", "Mukwano gwange”
+        "Do you have any brothers or sisters”:”Olina bagandabo oba bannyoko?”
+        "Are you married?”:”Oli mufumbo?”
+        "I am not married”:”Siri mufumbo”
+        "I am married”:”Ndi mufumbo”
+        "Do you have any children?”:”Olina abaana?”
+        "I don't have any children”:”Sirina baana”
+        "I don't have any children yet”:”Sinnafuna baana”
+        "I have”:”Nina..”
+        "One son”:”Omutabani omu”
+        "One daughter”:”Omuwala omu”
+        "Three sons”:”Abatabani basatu”
+        "Two daughters”:”Abawala babiri”
+
 }
